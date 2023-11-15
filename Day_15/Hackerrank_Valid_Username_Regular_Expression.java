@@ -1,4 +1,4 @@
-//Question link: 
+//Question link: https://www.hackerrank.com/challenges/valid-username-checker/
 
 import java.util.Scanner;
 class UsernameValidator {
