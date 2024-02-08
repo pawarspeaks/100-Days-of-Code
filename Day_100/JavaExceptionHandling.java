@@ -1,4 +1,4 @@
-public class ExceptionHandlingDemo {
+public class JavaExceptionHandling {
     public static void main(String[] args) {
         try {
             // Code that may throw an exception
